@@ -23,7 +23,7 @@ function hourUpdater() {
             $(this).addClass("past");
         }
     })
-}
+}8
 hourUpdater();
 
 //#5 Local Storage function to save to html
